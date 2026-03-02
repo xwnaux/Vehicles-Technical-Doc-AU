@@ -33,6 +33,9 @@ This project demonstrates how such materials can be transformed into a modular, 
 ## Repository Structure
 .
 ├── 01_DITA_Map_and_Topics
+
 ├── 02_Content_Style_Guide
+
 ├── 03_Localization_Assets
+
 ├── 04_Governance_and_Workflow
