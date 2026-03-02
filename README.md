@@ -1,4 +1,4 @@
-# Vehicles in Australia – Warranty & Service Knowledge Base (Structured DITA Project)
+# Vehicles in Australia – Warranty & Service Knowledge Base
 
 ## Project Overview
 
