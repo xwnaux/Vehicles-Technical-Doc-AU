@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept id="faq_warranty_service">
+  <title>Warranty & Service FAQ</title>
+
+  <conbody>
+
+    <section>
+      <title>Does missing a service automatically void the warranty?</title>
+      <p>
+        Warranty eligibility may be affected if scheduled services are not completed within the required timeframe.
+        Final determination follows internal review procedures.
+      </p>
+    </section>
+
+    <section>
+      <title>Can servicing be completed at any workshop?</title>
+      <p>
+        Customers should follow official guidance regarding authorized service pathways.
+      </p>
+    </section>
+
+    <section>
+      <title>How are software updates handled?</title>
+      <p>
+        Software updates may be delivered over-the-air or during scheduled service appointments.
+      </p>
+    </section>
+
+  </conbody>
+</concept>

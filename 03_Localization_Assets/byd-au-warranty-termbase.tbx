@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tbx xmlns="urn:iso:std:iso:30042:ed-2">
+  <tbxHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>BYD AU Warranty & Service Termbase</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Structured terminology asset for warranty and service documentation in the Australian market.</p>
+      </sourceDesc>
+    </fileDesc>
+  </tbxHeader>
+
+  <text>
+    <body>
+
+      <!-- 1 -->
+      <termEntry id="te1">
+        <langSet xml:lang="en-AU">
+          <tig>
+            <term>Warranty Eligibility</term>
+            <note type="definition">Conditions under which warranty coverage remains valid.</note>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>质保资格</term>
+          </tig>
+        </langSet>
+      </termEntry>
+
+      <!-- 2 -->
+      <termEntry id="te2">
+        <langSet xml:lang="en-AU">
+          <tig>
+            <term>Scheduled Service</term>
+            <note type="definition">Service performed according to official time or mileage intervals.</note>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>定期保养</term>
+          </tig>
+        </langSet>
+      </termEntry>
+
+      <!-- 3 -->
+      <termEntry id="te3">
+        <langSet xml:lang="en-AU">
+          <tig>
+            <term>Service Interval</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>保养周期</term>
+          </tig>
+        </langSet>
+      </termEntry>
+
+      <!-- 4 -->
+      <termEntry id="te4">
+        <langSet xml:lang="en-AU">
+          <tig>
+            <term>Authorized Service Centre</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>授权服务中心</term>
+          </tig>
+        </langSet>
+      </termEntry>
+
+      <!-- 5 -->
+      <termEntry id="te5">
+        <langSet xml:lang="en-AU">
+          <tig>
+            <term>Battery Management System (BMS)</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>电池管理系统</term>
+          </tig>
+        </langSet>
+      </termEntry>
+
+      <!-- 6 -->
+      <termEntry id="te6">
+        <langSet xml:lang="en-AU">
+          <tig>
+            <term>Over-the-Air (OTA) Update</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>空中升级</term>
+          </tig>
+        </langSet>
+      </termEntry>
+
+      <!-- 7 -->
+      <termEntry id="te7">
+        <langSet xml:lang="en-AU">
+          <tig>
+            <term>High-Voltage System</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>高压系统</term>
+          </tig>
+        </langSet>
+      </termEntry>
+
+      <!-- 8 -->
+      <termEntry id="te8">
+        <langSet xml:lang="en-AU">
+          <tig>
+            <term>Customer Responsibility</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>客户责任</term>
+          </tig>
+        </langSet>
+      </termEntry>
+
+      <!-- 9 -->
+      <termEntry id="te9">
+        <langSet xml:lang="en-AU">
+          <tig>
+            <term>Compliance Documentation</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>合规文件</term>
+          </tig>
+        </langSet>
+      </termEntry>
+
+      <!-- 10 -->
+      <termEntry id="te10">
+        <langSet xml:lang="en-AU">
+          <tig>
+            <term>Audit-Ready Documentation</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>可审计文件</term>
+          </tig>
+        </langSet>
+      </termEntry>
+
+    </body>
+  </text>
+</tbx>

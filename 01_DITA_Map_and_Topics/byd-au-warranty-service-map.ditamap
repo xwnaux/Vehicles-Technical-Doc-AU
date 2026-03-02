@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+
+<map title="BYD AU Warranty & Service Knowledge Base">
+
+  <topicref href="concept_warranty_overview.dita" navtitle="Warranty Overview"/>
+  <topicref href="concept_service_program_overview.dita" navtitle="Service Program Overview"/>
+
+  <topicref href="task_maintain_warranty_eligibility.dita" navtitle="Maintain Warranty Eligibility"/>
+  <topicref href="task_book_service.dita" navtitle="How to Book a Service"/>
+
+  <topicref href="reference_service_intervals.dita" navtitle="Service Intervals & Maintenance Requirements"/>
+  <topicref href="reference_key_terms.dita" navtitle="Key Terms and Definitions"/>
+
+  <topicref href="faq_warranty_service.dita" navtitle="Warranty & Service FAQ"/>
+
+  <topicref href="release_notes.dita" navtitle="Release Notes"/>
+
+</map>

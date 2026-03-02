@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+
+<task id="maintain_warranty_eligibility">
+  <title>Maintain Warranty Eligibility</title>
+
+  <shortdesc>
+    Steps customers and internal teams should follow to ensure warranty eligibility remains valid.
+  </shortdesc>
+
+  <taskbody>
+
+    <prereq>
+      <p>Customer has access to the official service schedule.</p>
+    </prereq>
+
+    <steps>
+      <step>
+        <cmd>Confirm the applicable vehicle model and warranty documentation version.</cmd>
+      </step>
+      <step>
+        <cmd>Ensure scheduled servicing is completed within required time or mileage thresholds.</cmd>
+      </step>
+      <step>
+        <cmd>Document each service event with date, mileage, and performed items.</cmd>
+      </step>
+      <step>
+        <cmd>Escalate deviations through the internal review workflow.</cmd>
+      </step>
+    </steps>
+
+    <result>
+      <p>
+        Warranty discussions become standardized, traceable, and audit-ready across departments.
+      </p>
+    </result>
+
+  </taskbody>
+</task>

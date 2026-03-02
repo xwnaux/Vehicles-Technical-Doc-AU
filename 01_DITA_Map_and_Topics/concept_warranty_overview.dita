@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept id="warranty_overview">
+  <title>Warranty Overview (Australia)</title>
+  <shortdesc>
+    High-level summary of warranty coverage principles applicable to BYD vehicles sold in Australia.
+  </shortdesc>
+
+  <conbody>
+
+    <section>
+      <title>Purpose of this Documentation</title>
+      <p>
+        This knowledge base restructures warranty information into modular, searchable topics to support
+        sales conversations, customer onboarding, and internal service coordination.
+      </p>
+    </section>
+
+    <section>
+      <title>Scope</title>
+      <p>
+        Applies to BYD EV and DM series vehicles officially supplied to the Australian market.
+        Coverage details may vary by model and model year.
+      </p>
+    </section>
+
+    <section>
+      <title>Customer Responsibilities (High-Level)</title>
+      <ul>
+        <li>Follow scheduled service intervals.</li>
+        <li>Retain service records and invoices.</li>
+        <li>Report defects promptly through authorized channels.</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Why Structured Content Matters</title>
+      <p>
+        Modular documentation ensures consistency across vehicle models and reduces ambiguity during
+        pre-sales and post-sales communication.
+      </p>
+    </section>
+
+  </conbody>
+</concept>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+
+<reference id="service_intervals">
+  <title>Service Intervals & Maintenance Requirements</title>
+
+  <refbody>
+
+    <section>
+      <title>General Principles</title>
+      <p>
+        Service intervals are determined by time and/or mileage, whichever occurs first.
+      </p>
+    </section>
+
+    <section>
+      <title>Key Maintenance Categories</title>
+      <ul>
+        <li>Battery system inspection</li>
+        <li>Brake system inspection</li>
+        <li>Software and firmware updates</li>
+        <li>Safety and electrical system checks</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Documentation Requirements</title>
+      <p>
+        Accurate service documentation is required to support warranty eligibility verification.
+      </p>
+    </section>
+
+  </refbody>
+</reference>

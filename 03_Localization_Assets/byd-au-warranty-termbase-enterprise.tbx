@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tbx xmlns="urn:iso:std:iso:30042:ed-2">
+  <tbxHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>BYD AU Warranty & Service Enterprise Termbase</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Enterprise-level terminology governance asset for structured DITA documentation and CAT integration.</p>
+      </sourceDesc>
+    </fileDesc>
+
+    <encodingDesc>
+      <p>Compliant with ISO 30042 (TBX). Includes status control, usage notes, and approval metadata.</p>
+    </encodingDesc>
+  </tbxHeader>
+
+  <text>
+    <body>
+
+      <!-- ============================ -->
+      <!-- 1. Warranty Eligibility -->
+      <!-- ============================ -->
+      <termEntry id="te001">
+        <descrip type="subjectField">Automotive / Warranty</descrip>
+        <descrip type="conceptStatus">approved</descrip>
+        <descrip type="originatingDept">Pre-Sales & Technical Documentation</descrip>
+
+        <langSet xml:lang="en-AU">
+          <tig>
+            <term>Warranty Eligibility</term>
+            <termNote type="administrativeStatus">preferredTerm</termNote>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">
+              Conditions under which warranty coverage remains valid under Australian market requirements.
+            </descrip>
+            <descrip type="context">
+              Used in sales and compliance-facing documentation.
+            </descrip>
+            <admin type="approvalDate">2025-02-15</admin>
+          </tig>
+        </langSet>
+
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>质保资格</term>
+            <termNote type="administrativeStatus">preferredTerm</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+
+      <!-- ============================ -->
+      <!-- 2. Scheduled Service -->
+      <!-- ============================ -->
+      <termEntry id="te002">
+        <descrip type="subjectField">Automotive / Service</descrip>
+        <descrip type="conceptStatus">approved</descrip>
+
+        <langSet xml:lang="en-AU">
+          <tig>
+            <term>Scheduled Service</term>
+            <termNote type="administrativeStatus">preferredTerm</termNote>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">
+              Service performed according to official time or mileage intervals defined in the warranty handbook.
+            </descrip>
+          </tig>
+          <tig>
+            <term>Routine Service</term>
+            <termNote type="administrativeStatus">admittedTerm</termNote>
+          </tig>
+          <tig>
+            <term>Regular Check</term>
+            <termNote type="administrativeStatus">deprecatedTerm</termNote>
+            <descrip type="usageNote">
+              Avoid informal phrasing in official documentation.
+            </descrip>
+          </tig>
+        </langSet>
+
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>定期保养</term>
+          </tig>
+        </langSet>
+      </termEntry>
+
+      <!-- ============================ -->
+      <!-- 3. Over-the-Air (OTA) Update -->
+      <!-- ============================ -->
+      <termEntry id="te003">
+        <descrip type="subjectField">Automotive / Software</descrip>
+        <descrip type="conceptStatus">approved</descrip>
+
+        <langSet xml:lang="en-AU">
+          <tig>
+            <term>Over-the-Air (OTA) Update</term>
+            <termNote type="administrativeStatus">preferredTerm</termNote>
+            <termNote type="abbreviation">OTA</termNote>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">
+              Remote software update delivered wirelessly to the vehicle.
+            </descrip>
+            <descrip type="usageNote">
+              Spell out in first occurrence; abbreviation permitted thereafter.
+            </descrip>
+          </tig>
+        </langSet>
+
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>空中升级</term>
+          </tig>
+        </langSet>
+      </termEntry>
+
+      <!-- ============================ -->
+      <!-- 4. Authorized Service Centre -->
+      <!-- ============================ -->
+      <termEntry id="te004">
+        <descrip type="subjectField">Automotive / Service Network</descrip>
+
+        <langSet xml:lang="en-AU">
+          <tig>
+            <term>Authorized Service Centre</term>
+            <termNote type="administrativeStatus">preferredTerm</termNote>
+            <descrip type="definition">
+              Service facility officially recognized to perform maintenance under warranty conditions.
+            </descrip>
+          </tig>
+        </langSet>
+
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>授权服务中心</term>
+          </tig>
+        </langSet>
+      </termEntry>
+
+      <!-- ============================ -->
+      <!-- 5. Audit-Ready Documentation -->
+      <!-- ============================ -->
+      <termEntry id="te005">
+        <descrip type="subjectField">Compliance / Documentation</descrip>
+
+        <langSet xml:lang="en-AU">
+          <tig>
+            <term>Audit-Ready Documentation</term>
+            <termNote type="administrativeStatus">preferredTerm</termNote>
+            <descrip type="definition">
+              Documentation structured to meet internal and regulatory audit requirements.
+            </descrip>
+          </tig>
+        </langSet>
+
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>可审计文件</term>
+          </tig>
+        </langSet>
+      </termEntry>
+<!-- 6. Battery Management System -->
+<!-- ============================ -->
+<termEntry id="te006">
+  <descrip type="subjectField">EV / Battery</descrip>
+  <langSet xml:lang="en-AU">
+    <tig>
+      <term>Battery Management System (BMS)</term>
+      <termNote type="administrativeStatus">preferredTerm</termNote>
+      <termNote type="partOfSpeech">noun</termNote>
+      <descrip type="definition">
+        Electronic system that monitors and manages battery performance and safety.
+      </descrip>
+      <descrip type="usageNote">
+        Spell out on first occurrence; use BMS thereafter.
+      </descrip>
+    </tig>
+  </langSet>
+  <langSet xml:lang="zh-CN">
+    <tig><term>电池管理系统</term></tig>
+  </langSet>
+</termEntry>
+
+<!-- 7 -->
+<termEntry id="te007">
+  <descrip type="subjectField">EV / Safety</descrip>
+  <langSet xml:lang="en-AU">
+    <tig>
+      <term>High-Voltage System</term>
+      <termNote type="administrativeStatus">preferredTerm</termNote>
+      <descrip type="definition">
+        Vehicle system operating above standard low-voltage thresholds.
+      </descrip>
+    </tig>
+  </langSet>
+  <langSet xml:lang="zh-CN">
+    <tig><term>高压系统</term></tig>
+  </langSet>
+</termEntry>
+
+<!-- 8 -->
+<termEntry id="te008">
+  <descrip type="subjectField">EV / Charging</descrip>
+  <langSet xml:lang="en-AU">
+    <tig>
+      <term>DC Fast Charging</term>
+      <termNote type="administrativeStatus">preferredTerm</termNote>
+    </tig>
+    <tig>
+      <term>Rapid Charging</term>
+      <termNote type="administrativeStatus">admittedTerm</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang="zh-CN">
+    <tig><term>直流快充</term></tig>
+  </langSet>
+</termEntry>
+
+<!-- 9 -->
+<termEntry id="te009">
+  <descrip type="subjectField">EV / Charging</descrip>
+  <langSet xml:lang="en-AU">
+    <tig>
+      <term>AC Charging</term>
+      <termNote type="administrativeStatus">preferredTerm</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang="zh-CN">
+    <tig><term>交流充电</term></tig>
+  </langSet>
+</termEntry>
+
+<!-- 10 -->
+<termEntry id="te010">
+  <descrip type="subjectField">EV / Performance</descrip>
+  <langSet xml:lang="en-AU">
+    <tig>
+      <term>Regenerative Braking</term>
+      <termNote type="administrativeStatus">preferredTerm</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang="zh-CN">
+    <tig><term>动能回收制动</term></tig>
+  </langSet>
+</termEntry>
+
+<!-- 11 -->
+<termEntry id="te011">
+  <descrip type="subjectField">EV / Battery</descrip>
+  <langSet xml:lang="en-AU">
+    <tig>
+      <term>Battery Capacity</term>
+      <termNote type="administrativeStatus">preferredTerm</termNote>
+      <descrip type="usageNote">
+        Expressed in kWh (kilowatt-hour).
+      </descrip>
+    </tig>
+  </langSet>
+  <langSet xml:lang="zh-CN">
+    <tig><term>电池容量</term></tig>
+  </langSet>
+</termEntry>
+
+<!-- 12 -->
+<termEntry id="te012">
+  <descrip type="subjectField">Warranty / Legal</descrip>
+  <langSet xml:lang="en-AU">
+    <tig>
+      <term>Warranty Coverage</term>
+      <termNote type="administrativeStatus">preferredTerm</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang="zh-CN">
+    <tig><term>质保范围</term></tig>
+  </langSet>
+</termEntry>
+
+<!-- 13 -->
+<termEntry id="te013">
+  <descrip type="subjectField">Warranty / Legal</descrip>
+  <langSet xml:lang="en-AU">
+    <tig>
+      <term>Exclusions</term>
+      <termNote type="administrativeStatus">preferredTerm</termNote>
+      <descrip type="definition">
+        Conditions or components not covered under warranty.
+      </descrip>
+    </tig>
+  </langSet>
+  <langSet xml:lang="zh-CN">
+    <tig><term>免责条款</term></tig>
+  </langSet>
+</termEntry>
+
+<!-- 14 -->
+<termEntry id="te014">
+  <descrip type="subjectField">Warranty / Legal</descrip>
+  <langSet xml:lang="en-AU">
+    <tig>
+      <term>Claim Assessment</term>
+      <termNote type="administrativeStatus">preferredTerm</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang="zh-CN">
+    <tig><term>索赔评估</term></tig>
+  </langSet>
+</termEntry>
+
+<!-- 15 -->
+<termEntry id="te015">
+  <descrip type="subjectField">Warranty / Legal</descrip>
+  <langSet xml:lang="en-AU">
+    <tig>
+      <term>Wear and Tear</term>
+      <termNote type="administrativeStatus">preferredTerm</termNote>
+      <descrip type="usageNote">
+        Do not translate as “damage” in Chinese contexts.
+      </descrip>
+    </tig>
+  </langSet>
+  <langSet xml:lang="zh-CN">
+    <tig><term>正常磨损</term></tig>
+  </langSet>
+</termEntry>
+
+    </body>
+  </text>
+</tbx>

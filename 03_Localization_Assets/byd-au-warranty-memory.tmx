@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+
+<header
+  creationtool="Trados Studio"
+  creationtoolversion="18.0"
+  segtype="sentence"
+  adminlang="en-AU"
+  srclang="en-AU"
+  datatype="PlainText"
+  o-tmf="BYD-AU-Warranty-TM"
+>
+</header>
+
+<body>
+
+<!-- =============================== -->
+<!-- Segment 1 -->
+<!-- =============================== -->
+<tu creationdate="20250218T103000Z" creationid="tech-doc-team">
+  <prop type="domain">Automotive/Warranty</prop>
+  <prop type="status">approved</prop>
+
+  <tuv xml:lang="en-AU">
+    <seg>Warranty eligibility depends on adherence to scheduled service requirements.</seg>
+  </tuv>
+
+  <tuv xml:lang="zh-CN">
+    <seg>质保资格取决于是否按照规定完成定期保养。</seg>
+  </tuv>
+</tu>
+
+<!-- =============================== -->
+<!-- Segment 2 -->
+<!-- =============================== -->
+<tu creationdate="20250218T103500Z" creationid="tech-doc-team">
+  <prop type="domain">Automotive/Service</prop>
+
+  <tuv xml:lang="en-AU">
+    <seg>Service intervals are determined by time or mileage, whichever occurs first.</seg>
+  </tuv>
+
+  <tuv xml:lang="zh-CN">
+    <seg>保养周期以时间或里程为准，以先到者为准。</seg>
+  </tuv>
+</tu>
+
+<!-- =============================== -->
+<!-- Segment 3 -->
+<!-- =============================== -->
+<tu creationdate="20250218T104000Z" creationid="localization-team">
+  <prop type="domain">EV/Battery</prop>
+
+  <tuv xml:lang="en-AU">
+    <seg>The Battery Management System (BMS) monitors battery performance and safety.</seg>
+  </tuv>
+
+  <tuv xml:lang="zh-CN">
+    <seg>电池管理系统（BMS）用于监控电池性能与安全状态。</seg>
+  </tuv>
+</tu>
+
+<!-- =============================== -->
+<!-- Segment 4 -->
+<!-- =============================== -->
+<tu creationdate="20250218T104300Z" creationid="localization-team">
+  <prop type="domain">Software/OTA</prop>
+
+  <tuv xml:lang="en-AU">
+    <seg>Software updates may be delivered over-the-air (OTA) or during scheduled service.</seg>
+  </tuv>
+
+  <tuv xml:lang="zh-CN">
+    <seg>软件更新可通过空中升级（OTA）或在定期保养期间完成。</seg>
+  </tuv>
+</tu>
+
+<!-- =============================== -->
+<!-- Segment 5 -->
+<!-- =============================== -->
+<tu creationdate="20250218T104600Z" creationid="presales-team">
+  <prop type="domain">Compliance</prop>
+
+  <tuv xml:lang="en-AU">
+    <seg>Accurate service documentation is required to support warranty verification.</seg>
+  </tuv>
+
+  <tuv xml:lang="zh-CN">
+    <seg>准确的保养记录是进行质保审核的重要依据。</seg>
+  </tuv>
+</tu>
+
+<!-- =============================== -->
+<!-- Segment 6 -->
+<!-- =============================== -->
+<tu creationdate="20250218T105000Z" creationid="presales-team">
+  <prop type="domain">Service Network</prop>
+
+  <tuv xml:lang="en-AU">
+    <seg>Customers should follow official guidance when selecting an authorized service centre.</seg>
+  </tuv>
+
+  <tuv xml:lang="zh-CN">
+    <seg>客户应根据官方指引选择授权服务中心进行维修保养。</seg>
+  </tuv>
+</tu>
+
+</body>
+</tmx>
